@@ -25,9 +25,8 @@ Observacoes sobre o gráfico
   
 Segundo a Organização Mundial da Saúde (OMS) o COVID-19 e uma doença da baixa letalidade - aproximadamente 2,4% - , observando o gráfico (figura 2) entre pessoas contaminadas e curadas podemos concluir que os números sao condizentes nessa população.  
   
-![Figura 2 - Infectados/Curados/Obitos](./graficos/infectados-curados.jpg){ width=35% }  
+![](.\graficos\infectados-curados.jpg){ width=50% }  
   
-Observacoes sobre o gráfico    
   
 Nota-se diferença no número de casos em rede pública e privada, relacionado diretamente a situação econômica, a maior parte da população depende da rede pública de saúde.(figura 3).  
   
