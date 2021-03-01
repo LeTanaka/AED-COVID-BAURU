@@ -1,0 +1,81 @@
+---
+title: "Relatório - Covid Bauru 2019"
+author: "Luciano Eiji Tanaka"
+date: "25/02/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Introdução  
+
+Os primeiros casos da doença COVID-19 surgiram em Wuhan, uma cidade de 11 milhões de pessoas na província chinesa de Hubei, no final de 2019. Causada pelo vírus SARS-CoV-2, em geral essa doença é autolimitada e não causa complicações na maioria dos infectados, porém, em alguns casos, pode resultar em morte devido a danos alveolares maciços e insuficiência respiratória progressiva.  
+  
+Este relatório contém uma Análise Exploratória de Dados dos impactos da pandemia na cidade de Bauru, interior do estado de São Paulo, identificando características dos casos e óbitos notificados de Covid-19 e sua distribuição de acordo com a idade dos pacientes.  
+  
+Os dados foram obtidos através de reportagens publicadas nos anos de 2020 e 2021 no periódico “Jornal da Cidade” e representam uma síntese dos dados divulgados pela Prefeitura Municipal de Bauru.    
+
+## Análise Exploratória de Dados  
+
+Após coletar os dados de casos gerais podemos observar o contágio da população ao longo dos meses de 2020 e 2021 (figura 1).  
+  
+
+  
+Observacoes sobre o gráfico  
+  
+Segundo a Organização Mundial da Saúde (OMS) o COVID-19 e uma doença da baixa letalidade - aproximadamente 2,4% - , observando o gráfico (figura 2) entre pessoas contaminadas e curadas podemos concluir que os números sao condizentes nessa população.  
+  
+![Figura 2 - Infectados/Curados/Obitos](./graficos/infectados-curados.jpg){ width=35% }  
+  
+Observacoes sobre o gráfico    
+  
+Nota-se diferença no número de casos em rede pública e privada, relacionado diretamente a situação econômica, a maior parte da população depende da rede pública de saúde.(figura 3).  
+  
+![Logo do RMarkdown](https://miro.medium.com/max/600/1*sCJzUnDilAuvGrlllJeXKw.jpeg){ width=35% }  
+  
+Observacoes sobre o gráfico  
+  
+Analisando os dados das mortes provocadas pelo coronavírus vemos neste gráfico (figura 4) o número entre homens e mulheres que foram contaminados, tendo como resultado um maior contágio entre homens.  
+  
+![Logo do RMarkdown](https://miro.medium.com/max/600/1*sCJzUnDilAuvGrlllJeXKw.jpeg){ width=35% }  
+  
+Observacoes sobre o gráfico  
+  
+Em relação às comorbidades, as mais comuns estão relacionadas a doenças e tratamentos de doenças que afetam os sistemas imunológico, respiratório, renal, cardíaco e neural.(figura 5).  
+  
+![Logo do RMarkdown](https://miro.medium.com/max/600/1*sCJzUnDilAuvGrlllJeXKw.jpeg){ width=35% }  
+  
+Observacoes sobre o gráfico    
+  
+A idade também foi bastante relevante para análise dos dados, segundo o gráfico (figura 6) de óbitos por idade entende-se que a população idosa é mais suscetível ao agravamento da doença.  
+  
+![Logo do RMarkdown](https://miro.medium.com/max/600/1*sCJzUnDilAuvGrlllJeXKw.jpeg){ width=35% }  
+  
+Observacoes sobre o gráfico   
+  
+## Conclusão  
+  
+Por fim, conclui-se que apesar da baixa letalidade do vírus Sars-CoV-2 há um grande número de óbitos pela facilidade de contágio e banalização da pandemia e suas medidas de segurança. 
+  
+Tendo em vista o número de casos ao longo dos meses, os dados de internações na rede pública e privada, e o número de leitos sendo inversamente proporcional ao número de infectados internados, podemos deduzir que as populações mais pobres que dependem da rede pública são as principais vítimas após o colapso do sistema de saúde pública.  
+  
+As características mais comuns nos pacientes levados a óbito foram a idade avançada, homens, comorbidades cujas doenças ou tratamento de doenças que prejudicam os sistemas: imunológico, respiratório, renal e cardíaco.  
+  
+## Bibliografia  
+  
+(https://covid.saude.gov.br/)  
+
+(https://www.who.int/docs/default-source/ncds/un-interagency-task-force-on-ncds/uniatf-policy-brief-ncds-and-covid-030920-poster.pdf?ua=1)  
+
+(https://www.bbc.com/portuguese/internacional-51674894)  
+
+(https://www2.bauru.sp.gov.br/coronavirus/)  
+
+(https://www.jcnet.com.br/)  
+
+
+
+  
+
+
+

@@ -1,0 +1,183 @@
+﻿data_boletim;sexo;idade;inicio_sintoma;tipo_hosp;comorbidade;data_obito
+;;;;;;
+;;;;;;
+09/09/2020;feminino;45;10/08/2020;privado;asma e obesidade;07/09/2020
+09/09/2020;feminino;65;03/08/2020;público;diabetes e cardiopatia;08/09/2020
+09/09/2020;masculino;53;19/08/2020;público;diabetes e doença renal crônica;08/09/2020
+09/09/2020;feminino;59;03/08/2020;público;diabetes e asma e hipertensão e cardiopatia;09/09/2020
+;;;;;;
+;;;;;;
+;;;;;;
+11/09/2020;feminino;87;13/08/2020;privado;Alzheimer;04/09/2020
+11/09/2020;masculino;71;19/08/2020;privado;pneumonia e cardiopatia e diabetes e obesidade;09/09/2020
+12/09/2020;masculino;62;10/08/2020;público;diabetes e doença renal crônica  e cardiopatia e obesidade;12/09/2020
+12/09/2020;masculino;70;08/08/2020;público;;12/09/2020
+;;;;;;
+;;;;;;
+;;;;;;
+14/09/2020;masculino;68;01/09/2020;público;;13/09/2020
+15/09/2020;masculino;71;21/06/2020;público;cardiopatia e doença neurológica;13/09/2020
+15/09/2020;masculino;66;01/09/2020;público;cardiopatia e diabetes;13/09/2020
+15/09/2020;feminino;63;27/08/2020;público;hipertensão;14/09/2020
+;;;;;;
+;;;;;;
+18/09/2020;feminino;82;20/06/2020;privado;doença renal crôica e hipertensão;13/09/2020
+18/09/2020;feminino;79;02/09/2020;privado;cardiopatia e diabetes e Parkinson;11/09/2020
+18/09/2020;feminino;37;12/08/2020;público;;13/09/2020
+18/09/2020;feminino;78;04/09/2020;privado;cardiopatia e diabetes;17/09/2020
+;;;;;;
+21/09/2020;masculino;71;25/07/2020;privado;diabetes e neuropatia e hipertensão e Alzheimer;21/09/2020
+21/09/2020;masculino;71;10/09/2020;privado;cardiopatia e neuropatia;20/09/2020
+21/09/2020;feminino;65;03/09/2020;privado;cardiopatia e diabetes e pneumonia e imunopatia e câncer de mama;19/09/2020
+21/09/2020;feminino;57;28/08/2020;público;cardiopatia;21/09/2020
+21/09/2020;masculino;50;02/09/2020;privado;;21/09/2020
+22/09/2020;masculino;43;11/09/2020;privado;;19/09/2020
+22/09/2020;feminino;86;01/09/2020;;cardiopatia;19/09/2020
+;;;;;;
+24/09/2020;feminino;56;17/09/2020;público;cardiopatia e diabetes e obesidade;19/09/2020
+24/09/2020;feminino;86;10/09/2020;público;hipertensão;23/09/2020
+24/09/2020;masculino;80;08/09/2020;público;cardiopatia e doença neurológica;23/09/2020
+25/09/2020;feminino;56;;público;hipertensão;23/09/2020
+25/09/2020;feminino;84;;privado;cardiopatia e diabetes e pneumopatia;
+28/09/2020;masculino;75;19/08/2020;público;;27/09/2020
+28/09/2020;feminino;94;14/09/2020;;doença neurológica e senilidade;27/09/2020
+29/09/2020;masculino;74;20/08/2020;privado;cardiopatia e diabetes e angioplastia e hipertensão e coronariopatia;26/09/2020
+29/09/2020;feminino;60;12/09/2020;;cardiopatia e doença hematológica e diabetes;29/09/2020
+30/09/2020;feminino;35;17/09/2020;público;cardiopatia;29/09/2020
+30/09/2020;feminino;47;15/09/2020;privado;diabetes;29/09/2020
+30/09/2020;feminino;44;13/09/2020;;hipertensão;30/09/2020
+01/10/2020;feminino;59;;;;01/10/2020
+01/10/2020;masculino;61;;;;01/10/2020
+01/10/2020;masculino;74;;;;01/10/2020
+05/10/2020;masculino;65;23/09/2020;público;diabetes e hipertensão e obesidade;04/10/2020
+06/10/2020;feminino;75;21/06/2020;público;cardiopatia e diabetes;04/10/2020
+06/10/2020;masculino;82;10/09/2020;privado;;05/10/2020
+07/10/2020;masculino;95;02/10/2020;privado;cardiopatia;05/10/2020
+;;;;;;
+08/10/2020;masculino;73;07/09/2020;privado;cardiopatia e obesidade;07/10/2020
+09/10/2020;masculino;45;;;diabetes e obesidade;09/10/2020
+09/10/2020;masculino;49;;;;09/10/2020
+11/10/2020;feminino;88;30/09/2020;privado;cardiopatia;11/10/2020
+13/10/2020;feminino;69;19/09/2020;privado;cardiopatia e diabetes e hipertensão;09/10/2020
+14/10/2020;masculino;81;14/09/2020;privado;cardiopatia;13/10/2020
+;;;;;;
+15/10/2020;masculino;68;03/10/2020;público;pneumonia;09/10/20220
+15/10/2020;feminino;77;07/10/2020;público;cardiopatia e diabetes;14/10/2020
+15/10/2020;masculino;73;08/07/2020;público;pneumonia e obesidade e hipertensão e doença cardiovascular;13/10/2020
+15/10/2020;masculino;74;02/10/2020;público;cardiopatia  ;14/10/2020
+15/10/2020;feminino;80;01/10/20202;privado;cardiopatia e diabetes e hipertensão e doença cardiovascular;13/10/2020
+15/10/2020;feminino;73;02/10/20202;privado;cardiopatia e diabetes e pneumonia;15/10/2020
+15/10/2020;feminino;64;17/09/2020;público;diabetes;14/10/2020
+;;;;;;
+16/10/2020;masculino;80;21/09/2020;privado;doença renal crônica;15/10/2020
+16/10/2020;masculino;80;09/10/2020;público;cardiopatia e diabetes;11/10/2020
+20/10/2020;masculino;84;23/09/2020;privado;doença pulmonar obstrutiva crônica;17/10/2020
+20/10/2020;masculino;82;09/08/2020;privado;cardiopatia e diabetes;19/10/2020
+20/10/2020;masculino;64;06/10/2020;;cardiopatia e hipertensão;20/10/2020
+19/10/2020;feminino;84;11/10/2020;privado;cardiopatia ;14/10/2020
+19/10/2020;feminino;88;04/10/2020;privado;cardiopatia e diabetes;16/10/2020
+19/10/2020;masculino;79;12/10/2020;privado;cardiopatia e diabetes e imunodeficiência;16/10/2020
+19/10/2020;feminino;65;11/10/2020;público;diabetes;19/10/2020
+;;;;;;
+;;;;;;
+22/10/2020;masculino;84;02/10/2020;privado;;20/10/2020
+22/10/2020;masculino;86;17/09/2020;público;cardiopatia e diabetes e doença neurológica;21/10/2020
+22/10/2020;feminino;83;28/09/2020;privado;hipertensão;21/10/2020
+22/10/2020;feminino;87;13/10/2020;privado;;21/10/2020
+23/10/2020;masculino;65;19/10/2020;privado;doença epática e hipertensão;22/10/2020
+23/10/2020;feminino;47;05/10/2020;público;cardiopatia e hipertensão;23/10/2020
+24/10/2020;;;;;;
+25/10/2020;feminino;64;;;diabetes e hipertensão;25/10/2020
+25/10/2020;feminino;95;;;;24/10/2020
+26/10/2020;masculino;62;08/09/2020;público;diabetes;23/10/2020
+26/10/2020;masculino;74;24/09/22020;privado;cardiopatia e doença neurológica e hipertensão;25/10/2020
+28/10/2020;feminino;93;23/10/2020;público;diabetes e hipertensão;26/10/2020
+28/10/2020;feminino;76;18/10/2020;privado;diabetes e hipertensão;26/10/2020
+30/10/2020;masculino;56;31/08/2020;público;doença renal crônica e hipertensão;28/10/2020
+03/11/2020;masculino;65;;público;cardiopatia e diabetes e transplantado renal;29/10/2020
+03/11/2020;feminino;84;;privado;diabetes e hipertensão;30/10/2020
+04/11/2020;masculino;60;14/10/2020;privado;cardiopatia e diabetes;30/10/2020
+04/11/2020;feminino;91;27/10/2020;privado;Alzheimer e sequelas de AVC;02/11/2020
+09/11/2020;masculino;64;20/09/2020;público;diabetes;04/11/2020
+13/11/2020;feminino;77;10/10/2020;público;cardiopatia e hipertensão e asma e obesidade;12/11/2020
+13/11/2020;masculino;55;14/10/2020;público;doença renal crônica e hipertensão;12/11/2020
+15/11/2020;;;;;;15/11/2020
+16/11/2020;masculino;66;13/10/2020;público;hipertensão;15/11/2020
+17/11/2020;masculino;65;16/07/2020;público;cardiopatia;17/11/2020
+20/11/2020;feminino;83;29/10/2020;privado;hipertensão;19/11/2020
+21/11/2020;masculino;23;06/11/2020;público;obesidade;21/11/2020
+23/11/2020;feminino;35;21/10/2020;privado;artrite rematóide;21/11/2020
+23/11/2020;masculino;84;11/11/2020;privado;hipertensão e câncer de próstata e diabetes;21/11/2020
+23/11/2020;masculino;74;11/11/2020;privado;cardiopatia e sequelas de AVC;18/11/2020
+27/11/2020;masculino;61;27/09/2020;privado;dibetes e cardiopatia e hepatopatia e obesidade;13/11/2020
+28/11/2020;;;;;;28/11/2020
+28/11/2020;;;;;;28/11/2020
+30/11/2020;masculino;87;14/11/2020;privado;hipertensão;28/11/2020
+30/11/2020;masculino;45;12/10/2020;público;;29/11/2020
+01/12/2020;feminino;97;09/11/2020;público;cardiopatia;30/11/2020
+01/12/2020;feminino;86;18/11/2020;público;cardiopatia e diabetes;30/11/2020
+02/12/2020;masculino;89;23/11/2020;público;cardiopatia;30/11/2020
+03/12/2020;masculino;78;12/11/2020;privado;cardiopatia e pneumopatia;02/12/2020
+07/12/2020;feminino;65;16/07/2020;público;diabetes e hipertensão;04/12/2020
+08/12/2020;masculino;77;11/11/2020;privado;cardiopatia e diabetes;07/12/2020
+10/12/2020;masculino;62;10/11/2020;público;;09/12/2020
+10/12/2020;feminino;88;04/11/2020;privado;pneumopatia;09/12/2020
+14/12/2020;masculino;55;02/12/2020;público;;11/12/2020
+14/12/2020;masculino;71;28/11/2020;público;cardiopatia e doença renal crônica;14/12/2020
+14/12/2020;feminino;77;22/11/2020;privado;obesidade e hipertensão;14/12/2020
+14/12/2020;feminino;51;12/11/2020;privado;;12/12/2020
+15/12/2020;masculino;90;30/11/2020;privado;cardiopatia;15/12/2020
+21/12/2020;masculino;63;07/11/2020;privado;;21/12/2020
+21/12/2020;masculino;85;01/12/2020;privado;cardiopatia;19/12/2020
+21/12/2020;masculino;78;29/11/2020;privado;diabetes e hipertensão;19/12/2020
+23/12/2020;feminino;88;11/12/2020;público;hipertensão e doença neurológica e pneumonia;22/12/2020
+23/12/2020;masculino;90;28/10/2020;público;hipertensão e doença neurológica;22/12/2020
+;;;;;;
+27/12/2020;masculino;78;24/11/2020;público;hipertensão;26/12/2020
+27/12/2020;masculino;75;27/11/2020;público;;26/12/2020
+28/12/2020;feminino;84;20/11/2020;privado;diabetes e hipertensão;25/12/2020
+28/12/2020;masculino;92;07/12/2020;privado;cardiopatia e diabetes;26/12/2020
+29/12/2020;feminino;49;23/11/2020;privado;câncer;28/12/2020
+30/12/2020;masculino;78;10/12/2020;privado;diabetes;30/12/2020
+31/12/2020;masculino;79;22/12/2020;privado;;30/12/2020
+;;;;;;
+02/12/2020;feminino;42;23/12/2020;público;hipertensão;01/01/2021
+;;;;;;
+;;;;;;
+04/01/2021;feminino;71;26/12/2020;privado;cardiopatia e hipertensão;31/12/2020
+04/01/2021;masculino;56;03/12/2020;público;hipertensão;31/12/2020
+05/01/2021;masculino;58;24/12/2020;privado;;04/01/2021
+05/01/2021;masculino;62;14/12/2020;público;diabetes;05/01/2021
+05/01/2021;masculino;75;11/12/2020;público;hipertensão;06/01/2021
+05/01/2021;masculino;81;30/12/2020;privado;cardiopatia e  doença neurológia cronica;02/01/2021
+05/01/2021;masculino;74;23/11/2020;privado;cardiopatia;05/01/2021
+06/01/2021;masculino;92;26/09/2020;privado;diabetes e hipertensão e cardiopatia;11/11/2020
+06/01/2021;masculino;84;03/12/2020;privado;diabetes e cardiopatia e doença neurológica e doença renal crônica e obesidade;30/12/2020
+06/01/2021;feminino;73;12/12/2020;público;diabetes;27/12/2020
+07/01/2021;masculino;74;02/11/2020;público;cardiopatia;27/12/2020
+07/01/2021;feminino;77;27/12/2020;público;diabetes e cardiopatia;03/01/2021
+11/01/2021;masculino;66;14/12/2020;privado;cardiopatia e hipertensão e diabetes;09/01/2021
+11/01/2021;feminino;68;26/11/2020;público;hipertensão e obesidade;10/01/2021
+11/01/2021;masculino;51;21/12/2020;privado;cardiopatia e hipertensão;09/01/2021
+11/01/2021;masculino;63;13/12/2020;privado;hipertensão e obesidade;08/01/2021
+11/01/2021;feminino;77;29/12/2020;público;doença renal crônica;08/01/2021
+11/01/2021;masculino;88;09/01/2021;público;;11/01/2021
+11/01/2021;feminino;73;25/12/2020;público;hipertensão e obesidade e diabetes;10/01/2021
+12/01/2021;masculino;71;29/11/2020;público;diabetes;11/01/2021
+13/01/2021;feminino;84;10/12/2020;privado;;10/01/2021
+14/01/2021;feminino;90;06/01/2021;privado;cardiopatia;14/01/2021
+18/01/2021;feminino;58;07/01/2021;público;cardiopatia e obesidade;14/01/2021
+18/01/2021;masculino;80;05/12/2020;público;asma;15/01/2021
+18/01/2021;masculino;54;22/12/2020;público;cardiopatia;15/01/2021
+18/01/2021;masculino;75;31/12/2020;privado;cardiopatia e diabetes;16/01/2021
+18/01/2021;feminino;92;29/12/2020;privado;doença tireoideana;16/01/2021
+19/01/2021;masculino;88;04/01/2021;público;;17/01/2021
+19/01/2021;masculino;81;09/01/2021;privado;cardiopatia e doença neurológica crônica e doença renal crônica;19/01/2021
+19/01/2021;masculino;82;25/12/2020;privado;cardiopatia e doença neurológica crônica e hipertensão;19/01/2021
+19/01/2021;masculino;64;27/12/2020;público;diabetes e hipertensão;18/01/2021
+19/01/2021;feminino;73;01/10/2020;público;diabetes;17/01/2021
+21/01/2021;feminino;84;12/01/2021;público;;17/01/2021
+21/01/2021;masculino;72;09/01/2021;privado;diabetes e hipertensão e asma e obesidade;21/01/2021
+21/01/2021;feminino;71;02/01/2021;público;diabetes e hipertensão;20/01/2021
+21/01/2021;masculino;72;17/01/2021;público;doença neurológica;17/01/2021
+21/01/2021;masculino;74;05/01/2021;privado;diabetes e cardiopatia;21/01/2021
